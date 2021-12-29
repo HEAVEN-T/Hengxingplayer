@@ -20,5 +20,5 @@
     {"title":"红牛资源","api":"https://www.hongniuzy1.com/inc/apijson_vodhnm3u8.php/provide/vod/","datatype":"json","search":false},
     {"title":"北斗星","api":"https://v8.bdxzyapi.com/inc/api.php/provide/vod/","datatype":"xml","search":false},
     {"title":"飘花电影","api":"http://www.2mjtt.com/inc/api.php/provide/vod/","datatype":"xml","search":false},
-     {"title":"黄色仓库","api":"http://47hsck.cc//inc/api.php/provide/vod/","datatype":"xml","search":false}
+     {"title":"黄色仓库","api":"http://www.47hsck.cc//inc/api.php/provide/vod/","datatype":"xml","search":false}
 ]
